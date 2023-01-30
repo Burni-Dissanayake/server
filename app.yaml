@@ -1,3 +1,3 @@
 runtime: nodejs18
 
-service: inventory-server
+service: default
